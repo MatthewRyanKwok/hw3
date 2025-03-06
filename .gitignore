@@ -1,2 +1,8 @@
 *.o
 llrec-test
+a.out
+hw3_tests.tar.gz
+hw3_tests/
+input.txt
+llpivot_test
+llrec.h.gch
